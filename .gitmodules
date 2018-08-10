@@ -1,3 +1,4 @@
 [submodule "minecraft-data"]
 	path = minecraft-data
-	url = https://github.com/PrismarineJS/minecraft-data.git
+	url = https://github.com/DeliciousJaffa/minecraft-data.git
+    branch = 1.13
