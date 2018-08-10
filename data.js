@@ -340,19 +340,19 @@ module.exports =
       'language': require('./minecraft-data/data/pc/1.12/language')
     },
     '1.13': {
-      'blocks': require('./minecraft-data/data/pc/1.13/blocks'),
-      'biomes': require('./minecraft-data/data/pc/1.13/biomes'),
-      'effects': require('./minecraft-data/data/pc/1.13/effects'),
-      'enchantments': require('./minecraft-data/data/pc/1.13/enchantments'),
-      'items': require('./minecraft-data/data/pc/1.13/items'),
-      'recipes': require('./minecraft-data/data/pc/1.13/recipes'),
-      'instruments': require('./minecraft-data/data/pc/1.13/instruments'),
-      'materials': require('./minecraft-data/data/pc/1.13/materials'),
-      'entities': require('./minecraft-data/data/pc/1.13/entities'),
+      'blocks': require('./minecraft-data/data/pc/1.12/blocks'),
+      'biomes': require('./minecraft-data/data/pc/1.12/biomes'),
+      'effects': require('./minecraft-data/data/pc/1.12/effects'),
+      'enchantments': require('./minecraft-data/data/pc/1.12/enchantments'),
+      'items': require('./minecraft-data/data/pc/1.12/items'),
+      'recipes': require('./minecraft-data/data/pc/1.12/recipes'),
+      'instruments': require('./minecraft-data/data/pc/1.12/instruments'),
+      'materials': require('./minecraft-data/data/pc/1.12/materials'),
+      'entities': require('./minecraft-data/data/pc/1.12/entities'),
       'protocol': require('./minecraft-data/data/pc/1.13/protocol'),
-      'windows': require('./minecraft-data/data/pc/1.13/windows'),
+      'windows': require('./minecraft-data/data/pc/1.12/windows'),
       'version': require('./minecraft-data/data/pc/1.13/version'),
-      'language': require('./minecraft-data/data/pc/1.13/language')
+      'language': require('./minecraft-data/data/pc/1.12/language')
     }
   },
   'pe': {
